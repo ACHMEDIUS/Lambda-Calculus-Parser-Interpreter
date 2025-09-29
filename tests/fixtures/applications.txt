@@ -1,0 +1,5 @@
+f x
+f x y
+f x y z
+(f x) y
+f (g x)

@@ -1,0 +1,5 @@
+(\x x) y
+(\x \y x) a b
+(\f \x f (f x)) succ zero
+((\x x) (\y y)) z
+\x (x y z)
